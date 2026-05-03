@@ -1,16 +1,31 @@
-# flutter_demo
+# Journal Application
 
-A new Flutter project.
+This project is created for assignment submission.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add journal entries
+- View list of entries
+- Entry title
+- Entry description
+- Date and time added
+- Empty state message
+- Smooth scrolling list
 
-A few resources to get you started if this is your first Flutter project:
+## Widgets Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Scaffold
+- AppBar
+- TextField
+- ElevatedButton
+- ListView
+- Card
+- ListTile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+![Output](Screenshot%202026-05-03%20175728.png)
+
+## Result
+
+Application runs successfully without errors.
